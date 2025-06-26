@@ -9,7 +9,7 @@ import android.text.Spanned
 import androidx.annotation.Nullable
 import com.facebook.react.uimanager.UIManagerHelper
 import com.facebook.react.views.textinput.ReactEditText
-import so.onekey.app.wallet.pasteinput.PasteWatcher
+import so.digitalshield.app.wallet.pasteinput.PasteWatcher
 
 class TextInputView(context: Context) : ReactEditText(context) {
 

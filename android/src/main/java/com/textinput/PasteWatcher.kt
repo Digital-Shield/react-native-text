@@ -1,4 +1,4 @@
-package so.onekey.app.wallet.pasteinput
+package so.digitalshield.app.wallet.pasteinput
 
 /**
  * Implement this interface to be informed of paste event in the

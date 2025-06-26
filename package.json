@@ -1,5 +1,5 @@
 {
-  "name": "@onekeyfe/react-native-text-input",
+  "name": "@digitalshieldfe/react-native-text-input",
   "version": "0.2.4",
   "description": "text-input",
   "source": "./src/index.tsx",
@@ -40,14 +40,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OneKeyHQ/react-native-text.git"
+    "url": "git+https://github.com/Digital-Shield/react-native-text.git"
   },
   "author": "huhuanming <workboring@gmail.com> (https://github.com/huhuanming)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OneKeyHQ/react-native-text/issues"
+    "url": "https://github.com/Digital-Shield/react-native-text/issues"
   },
-  "homepage": "https://github.com/OneKeyHQ/react-native-text/issues#readme",
+  "homepage": "https://github.com/Digital-Shield/react-native-text/issues#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

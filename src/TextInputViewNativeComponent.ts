@@ -6,4 +6,4 @@ interface NativeProps extends ViewProps {
   onPaste?: DirectEventHandler<{}>;
 }
 
-export default codegenNativeComponent<NativeProps>('OneKeyTextInput');
+export default codegenNativeComponent<NativeProps>('DigitalShieldTextInput');

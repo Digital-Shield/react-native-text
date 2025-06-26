@@ -10,13 +10,13 @@ import com.facebook.react.uimanager.annotations.ReactProp
 import com.facebook.react.uimanager.events.EventDispatcher
 import com.facebook.react.views.textinput.ReactEditText
 import com.facebook.react.views.textinput.ReactTextInputManager
-import so.onekey.app.wallet.pasteinput.PasteWatcher
+import so.digitalshield.app.wallet.pasteinput.PasteWatcher
 
 @ReactModule(name = ReactTextInputManager.REACT_CLASS)
 class TextInputViewManager() : ReactTextInputManager() {
 
   companion object {
-        const val REACT_CLASS = "OneKeyTextInput"
+        const val REACT_CLASS = "DigitalShieldTextInput"
     }
 
     override fun getName(): String = REACT_CLASS
